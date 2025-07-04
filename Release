@@ -1,8 +1,8 @@
 Origin: LakeTakeCake
-Label: LakeTakeCake's Repo
+Label: LakeTakeCake Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: LakeCakeTake's Tweaks.
+Description: A collection of my tweaks for rootful and rootless jailbreaks
