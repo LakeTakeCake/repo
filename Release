@@ -3,6 +3,6 @@ Label: LakeTakeCake Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm arm64
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: A collection of my tweaks for rootful and rootless jailbreaks
