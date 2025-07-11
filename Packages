@@ -16,7 +16,7 @@ Icon: https://i.imgur.com/pbPiDuo.png
 Name: DeviantPatch
 
 Package: com.laketakecake.deviant.patch
-Version: 1.0.0-10+debug
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: LakeTakeCake
 Installed-Size: 220
@@ -50,7 +50,7 @@ Icon: https://i.imgur.com/5vjWge7.png
 Name: ProxyHolder
 
 Package: com.laketakecake.proxyholder
-Version: 1.0.0-8+debug
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: LakeTakeCake
 Installed-Size: 220
