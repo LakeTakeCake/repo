@@ -39,30 +39,30 @@ Maintainer: LakeTakeCake
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000) | prefer-substitute, firmware (>= 15.0)
 Filename: ./debs/com.laketakecake.proxyholder_1.0.0_iphoneos-arm64.deb
-Size: 4770
-MD5sum: d37fee42d38a996fc5535f7249d64488
-SHA1: 2a14376156bfe205eccb5c18714a53843d6ce924
-SHA256: 9908c80e7e01fadf2e38ff19b7a5e5b2cae7cd7dabc51fd4225c1d52f2d6b5da
+Size: 4760
+MD5sum: c084282ed797a9da607e8158b5d921f8
+SHA1: 8e65bf221e16e98a5e71e8df5225f62906f83184
+SHA256: e10ef84a078b23c9435bc6ffdb03b98ac301d8a6ec2f5999fffa1c6346d867d5
 Section: Tweaks
 Description: Tweak for the Settings app to remember proxy values even after turning it off and on again.
 Author: LakeTakeCake
-Icon: https://imgur.com/a/xcfzJf0#5vjWge7.png
+Icon: https://i.imgur.com/5vjWge7.png
 Name: ProxyHolder
 
 Package: com.laketakecake.proxyholder
-Version: 1.0.0-6+debug
+Version: 1.0.0-7+debug
 Architecture: iphoneos-arm
 Maintainer: LakeTakeCake
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000) | prefer-substitute, firmware (>= 15.0)
-Filename: ./debs/com.laketakecake.proxyholder_1.0.0-6+debug_iphoneos-arm.deb
-Size: 8044
-MD5sum: 5bcc8d5f497126a4f7363ade3a908dee
-SHA1: 29fc17f10798d22968a96e17970ef7735f4f9879
-SHA256: fb4e77f1f21729d76ae2ab10dc76622b2a4dfb142f16c3f86a0320cb0dd1faea
+Filename: ./debs/com.laketakecake.proxyholder_1.0.0-7+debug_iphoneos-arm.deb
+Size: 8040
+MD5sum: d41b0b0885357abfd2ed1de2d6c70125
+SHA1: 4a568c9307a1beff103dcfffe9239d323f5b8c6e
+SHA256: 719e0aaa469a6ae569ba001c3b8600bc0a420191c45bf9f19646000984ee4551
 Section: Tweaks
 Description: Tweak for the Settings app to remember proxy values even after turning it off and on again.
 Author: LakeTakeCake
-Icon: https://imgur.com/a/xcfzJf0#5vjWge7.png
+Icon: https://i.imgur.com/5vjWge7.png
 Name: ProxyHolder
 
