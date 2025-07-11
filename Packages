@@ -1,0 +1,68 @@
+Package: com.laketakecake.deviant.patch
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: LakeTakeCake
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/DeviantPatch-rootless_1.0.0_iphoneos-arm64.deb
+Size: 5888
+MD5sum: d94c1d3c66519d030c89c2e20172c815
+SHA1: 51462ffc178d7786014a468dac0d507da0f19fd5
+SHA256: d03f3f15faa1d94a034d5447e3b01171a113c30c52b57805dd0b8ee42dde3a58
+Section: Tweaks
+Description: A tweak to fix the crash that occurs on Deviant art 2.7.2 for iOS versions older than iOS 17, which causes the app to crash and log you out every time you try to sign in.
+Author: LakeTakeCake
+Icon: https://i.imgur.com/pbPiDuo.png
+Name: DeviantPatch
+
+Package: com.laketakecake.deviant.patch
+Version: 1.0.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: LakeTakeCake
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/DeviantPatch_1.0.0_iphoneos-arm.deb
+Size: 10378
+MD5sum: 00b03eecc2266dca7e6e19676ccd1f7d
+SHA1: 45f7b2355de41e2aa7a4c2b1a4ae762a4b6e7917
+SHA256: 08bd76988fb2a6edb2c3084f01ee5d997d9460e69c3ba5231e7ed2fe4e52e103
+Section: Tweaks
+Description: A tweak to fix the crash that occurs on Deviant art 2.7.2 for iOS versions older than iOS 17, which causes the app to crash and log you out every time you try to sign in.
+Author: LakeTakeCake
+Icon: https://i.imgur.com/pbPiDuo.png
+Name: DeviantPatch
+
+Package: com.laketakecake.proxyholder
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: LakeTakeCake
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000) | prefer-substitute, firmware (>= 15.0)
+Filename: ./debs/com.laketakecake.proxyholder_1.0.0_iphoneos-arm64.deb
+Size: 4770
+MD5sum: d37fee42d38a996fc5535f7249d64488
+SHA1: 2a14376156bfe205eccb5c18714a53843d6ce924
+SHA256: 9908c80e7e01fadf2e38ff19b7a5e5b2cae7cd7dabc51fd4225c1d52f2d6b5da
+Section: Tweaks
+Description: Tweak for the Settings app to remember proxy values even after turning it off and on again.
+Author: LakeTakeCake
+Icon: https://imgur.com/a/xcfzJf0#5vjWge7.png
+Name: ProxyHolder
+
+Package: com.laketakecake.proxyholder
+Version: 1.0.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: LakeTakeCake
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000) | prefer-substitute, firmware (>= 15.0)
+Filename: ./debs/com.laketakecake.proxyholder_1.0.0-6+debug_iphoneos-arm.deb
+Size: 8044
+MD5sum: 5bcc8d5f497126a4f7363ade3a908dee
+SHA1: 29fc17f10798d22968a96e17970ef7735f4f9879
+SHA256: fb4e77f1f21729d76ae2ab10dc76622b2a4dfb142f16c3f86a0320cb0dd1faea
+Section: Tweaks
+Description: Tweak for the Settings app to remember proxy values even after turning it off and on again.
+Author: LakeTakeCake
+Icon: https://imgur.com/a/xcfzJf0#5vjWge7.png
+Name: ProxyHolder
+
